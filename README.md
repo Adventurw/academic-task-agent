@@ -101,4 +101,5 @@ Contributions are welcome! Please:
 5. Open a Pull Request
 
 ## 🎥 Demo Video
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID
+[https://github.com/user-attachments/assets/YOUR_VIDEO_ID](https://youtu.be/OH5lOPU8tdg)
+
